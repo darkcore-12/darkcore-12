@@ -1,16 +1,24 @@
 ## Hi there 👋
 
-<!--
-**darkcore-12/darkcore-12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm DarCore – I like building bots, APIs, and random experiments with code 🤖💻
 
-Here are some ideas to get you started:
+### 🚀 What I'm working on
+- 🔧 Automatización con bots en WhatsApp
+- 📦 APIs públicas y privadas
+- 🎬 Webs para ver y descargar películas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 Skills
+- JavaScript / Node.js
+- Python
+- Web scraping
+- HTML + CSS + JavaScript + Tailwind
+- Java
+- C +++
+
+### 📫 How to reach me
+- Telegram: [@Darkcore](https://t.me/Darkcore)
+- Discord: Darkcore#0000
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
